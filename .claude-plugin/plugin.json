@@ -1,0 +1,10 @@
+{
+  "name": "hoplix",
+  "version": "1.1.0",
+  "description": "Print-on-demand with Hoplix: browse products, create campaigns with your designs, quote, order and track. Connects the remote Hoplix MCP server (OAuth).",
+  "author": { "name": "Hoplix SRL", "email": "support@hoplix.com", "url": "https://hoplix.com" },
+  "homepage": "https://hoplix.com/en/mcp-integration",
+  "repository": "https://github.com/hoplix/hoplix-print-on-demand-mcp",
+  "license": "MIT",
+  "keywords": ["print-on-demand", "mcp", "t-shirt", "merchandise", "ecommerce"]
+}

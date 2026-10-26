@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "hoplix": {
+      "type": "http",
+      "url": "https://api.hoplix.com/mcp"
+    }
+  }
+}

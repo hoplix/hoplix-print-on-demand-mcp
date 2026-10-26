@@ -1,0 +1,16 @@
+{
+  "name": "hoplix-print-on-demand-mcp",
+  "owner": { "name": "Hoplix SRL", "email": "support@hoplix.com" },
+  "metadata": { "description": "Hoplix print-on-demand for Claude Code", "version": "1.1.0" },
+  "plugins": [
+    {
+      "name": "hoplix",
+      "source": "./",
+      "description": "Print-on-demand with Hoplix: browse products, create campaigns with your designs, quote, order and track.",
+      "version": "1.1.0",
+      "author": { "name": "Hoplix SRL" },
+      "homepage": "https://hoplix.com/en/mcp-integration",
+      "category": "productivity"
+    }
+  ]
+}
